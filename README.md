@@ -27,4 +27,4 @@ docker container run --detach -it --name gitdocker --restart always shlomibendav
 ```
 docker container exec -it gitdocker git clone https://<github repository>
 ```
-**NOTE:** make sure to replace the <github repository> with your relevant one
+**NOTE:** make sure to replace the \<github repository\> with your relevant one
